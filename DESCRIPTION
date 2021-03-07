@@ -1,0 +1,34 @@
+Package: edgyR-algocompsynth
+Title: Algorithmic Composition and Synthesis
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "M. Edward (Ed)",
+           family = "Borasky",
+           role = c("aut", "cre"),
+           email = "znmebt@znmeb.net")
+Description: `edgyR-algocompsynth` is a collection of utilities
+    for algorithmic music composition and digital sound synthesis. The design
+    goals include taking advantage of NVIDIA CUDA capabilities when present, for
+    either NVIDIA Jetson systems or PCs with CUDA-aware GPUs. If it will run
+    `cuSignal`, it should run `edgyR-algocompsynth`.
+License: MIT + file LICENSE
+Suggests:
+    audio,
+    devtools,
+    miniUI,
+    monitoR,
+    phonTools,
+    pkgdown,
+    seewave,
+    signal,
+    soundecology,
+    soundgen,
+    testthat,
+    tuneR,
+    warbleR
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+URL: https://github.com/edgyR/edgyR-algocompsynth/
+BugReports: https://github.com/edgyR/edgyR-algocompsynth/issues
