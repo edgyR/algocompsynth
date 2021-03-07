@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# edgyR-algocompsynth
+# edgyR.algocompsynth
 
 CUDA-aware algorithmic composition and digital sound synthesis in R
 
@@ -31,9 +31,9 @@ for multi-core parallel processing, and functions for algorithmic composition.
 
 ## Installation
 
-You can install `edgyR-algocompsynth` from
-[GitHub](https://edgyR.github.io/edgyR-algocompsynth) with:
+You can install `edgyR.algocompsynth` from
+[GitHub](https://edgyR.github.io/edgyR.algocompsynth) with:
 
 ``` r
-remotes::install_.packages_github("edgyR/edgyR-algocompsynth")
+remotes::install_.packages_github("edgyR/edgyR.algocompsynth")
 ```

@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# edgyR-algocompsynth
+# edgyr.algocompsynth
 
 CUDA-aware algorithmic composition and digital sound synthesis in R
 
@@ -21,9 +21,9 @@ functions for algorithmic composition.
 
 ## Installation
 
-You can install `edgyR-algocompsynth` from
-[GitHub](https://edgyR.github.io/edgyR-algocompsynth) with:
+You can install `edgyr.algocompsynth` from
+[GitHub](https://edgyR.github.io/edgyr.algocompsynth) with:
 
 ``` r
-remotes::install_.packages_github("edgyR/edgyR-algocompsynth")
+remotes::install_.packages_github("edgyR/edgyr.algocompsynth")
 ```
